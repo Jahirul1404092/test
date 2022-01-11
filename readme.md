@@ -1,25 +1,26 @@
-# large
-## small
-and as **imagination** bodies forth,
-the forms of things *unknown*, the poet's pen.
-turns them to shape and gives to airy nothing,
-A local *habitation* and a **name**.
+# Sean Kross
 
-- this is
-- an unorderd
-- list
+### Geography
 
-1. this is
-2. an ordered
-3. list
+I live in the city of Baltimore, in the state of Maryland, in the United States
+of America.
 
-Here is `some code` in the middle of a sentence.
+### Reading
 
-```
-this is
-a block
-of code
-```
-a link [a link](https://www.google.com/)
-![This is an image](https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg)
+Three of my favorite books are:
 
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
+
+### Food
+
+Last night I dreamt about eating in these restaurants:
+
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
